@@ -1,0 +1,248 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 974px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3.75rem;
+  margin: 12px 550px 0 0;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  width: 1140px;
+  margin: 8px auto 60px -1px;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 765px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 70px 68px 0 25px;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 12px 68px 0 25px;
+}
+
+.u-section-1 .u-text-4 {
+  margin: 21px auto 0 19px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 765px;
+  background-image: none;
+}
+
+.u-section-1 .u-image-1 {
+  width: 711px;
+  height: 711px;
+  background-image: url("images/cellbg2.jpg");
+  background-position: 50% 50%;
+  margin: -23px auto 0 -42px;
+}
+
+.u-section-1 .u-image-2 {
+  width: 611px;
+  height: 611px;
+  background-image: url("images/IMG_7782.JPG");
+  background-position: 50% 50%;
+  margin: -666px auto 0 -30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 840px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 350px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 940px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 631px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 20px;
+    padding-right: 56px;
+  }
+
+  .u-section-1 .u-text-2 {
+    position: relative;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 631px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 487px;
+    height: 487px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 487px;
+    height: 487px;
+    margin-top: -442px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 692px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+    margin-right: 130px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    z-index: 2;
+    min-height: 483px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 370px;
+    height: 370px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 370px;
+    height: 370px;
+    margin-top: -325px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1326px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 540px;
+    margin-bottom: 9px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    z-index: 0;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 12px;
+    padding-right: 32px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 679px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 12px;
+    margin-left: 70px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -345px;
+    margin-left: 73px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1075px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 805px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 7px;
+    padding-right: 7px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 13px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 13px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: auto;
+    margin-right: 13px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 482px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: auto;
+    margin-top: 26px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-image-2 {
+    height: 340px;
+    width: 340px;
+    margin-top: -321px;
+    margin-right: 7px;
+    margin-left: -7px;
+  }
+}
